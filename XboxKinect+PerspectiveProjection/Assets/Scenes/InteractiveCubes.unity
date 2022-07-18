@@ -1502,6 +1502,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1574990750}
     m_Modifications:
+    - target: {fileID: 4812977762080081537, guid: c5c97de30a7d334499e52327d963825c, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
     - target: {fileID: 4812977762287511536, guid: c5c97de30a7d334499e52327d963825c, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -1598,6 +1602,10 @@ PrefabInstance:
       propertyPath: handRightVisual
       value: 
       objectReference: {fileID: 1307052279}
+    - target: {fileID: 4812977762798244936, guid: c5c97de30a7d334499e52327d963825c, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c5c97de30a7d334499e52327d963825c, type: 3}
 --- !u!1 &1012526833
