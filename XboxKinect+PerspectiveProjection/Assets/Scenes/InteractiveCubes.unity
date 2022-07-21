@@ -849,6 +849,7 @@ MonoBehaviour:
   cube: {fileID: 1533615814367655563, guid: 965190237346dd742940ad1ed6a82835, type: 3}
   explosionRadius: 5
   explosionPower: 10
+  explosionWaitTime: 10
   targetTransform: {fileID: 1656286733}
   matOne: {fileID: 2100000, guid: 50fad2fc3cb6df748b931a25bb625497, type: 2}
   matTwo: {fileID: 2100000, guid: a0979ad373db223499b1e423155e0d01, type: 2}
@@ -1785,6 +1786,7 @@ MonoBehaviour:
   cube: {fileID: 492450788023477880, guid: 5ae4c97d1da70a943bdd4a9104cbb34e, type: 3}
   explosionRadius: 5
   explosionPower: 10
+  explosionWaitTime: 10
   targetTransform: {fileID: 1307052279}
   matOne: {fileID: 2100000, guid: c6d1e054dd887634eaf24ab617fb3ae5, type: 2}
   matTwo: {fileID: 2100000, guid: 1944deedd82f06c4f94697c4caa53754, type: 2}
@@ -2681,7 +2683,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1747301860}
   m_LocalRotation: {x: -0.015203229, y: 0.008889619, z: 0.0001351719, w: 0.9998449}
-  m_LocalPosition: {x: 0, y: 0, z: -6}
+  m_LocalPosition: {x: 0.47, y: 0, z: -6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

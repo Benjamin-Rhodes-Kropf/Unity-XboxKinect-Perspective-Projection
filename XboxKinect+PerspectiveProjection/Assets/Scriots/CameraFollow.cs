@@ -49,7 +49,7 @@ public class CameraFollow : MonoBehaviour
     {
         try
         {
-            _kinectHeadTransform = GameObject.Find("Head").GetComponent<Transform>();
+             _kinectHeadTransform = GameObject.Find("Head").GetComponent<Transform>();
         }
         catch
         {
