@@ -33,5 +33,5 @@ https://user-images.githubusercontent.com/85074410/163735230-61a49f94-22e9-4794-
  - [Kinect Adapter for Xbox One S,Xbox One X and Windows 8/8.1/10](https://www.amazon.com/gp/product/B07GBGYHG9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
  - [Optical Illusion STL file](https://www.thingiverse.com/thing:547580/files)
 
-## Similar Projects
+## Related Spaces
 -[The Cylindrical Varrier, a high-resolution parallax-barrier autostereo VR display](https://www.researchgate.net/figure/The-Cylindrical-Varrier-a-high-resolution-parallax-barrier-autostereo-VR-display_fig1_221402769)
